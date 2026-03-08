@@ -8,7 +8,6 @@ I work at the intersection of clinical medicine, AI, and health informatics — 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QVKGWSAAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5320-5081)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hbsb2566@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=DrHBSB&color=grey&style=flat)
 
 ---
 
