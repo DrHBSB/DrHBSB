@@ -2,54 +2,56 @@
 
 **Physician · Clinical AI–ML · Health Informatics · Climate & Health · MS (Research) at IIT Delhi**
 
-I work at the intersection of clinical medicine, AI, and health informatics — building systems that improve healthcare delivery, reduce physician burnout, and bridge care disparities. Equally drawn to the climate–health nexus, with formal training in climate data science, environmental health modelling, and climate data visualization.
+I work at the intersection of clinical medicine, AI, and health informatics — with 6+ years across clinical practice, health-tech, and digital health. I build systems that improve healthcare delivery, reduce physician burnout, and bridge care disparities. Equally drawn to the climate–health nexus, with formal training in climate data science, environmental health modelling, and climate data visualization.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drhbsb)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QVKGWSAAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5320-5081)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hbsb2566@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=DrHBSB&color=grey&style=flat)
 
 ---
 
 ## 🔬 What I'm Doing Now
 
 - **MS (Research)** in Biomedical Engineering at [IIT Delhi](https://home.iitd.ac.in/) *(Jan 2025 – present)*
+- **Researcher** at [CRASH Lab](https://crashlab.in) (Centre for Responsible Autonomous Systems in Healthcare) at [KCDH-A](https://www.koitafoundation.org/KCDHA) (Koita Centre for Digital Health – Ashoka University)
 - **Program Director** at [XpertDox](https://www.xpertdox.com/) — scaling healthcare informatics products across US hospitals and clinics
 
 ---
 
 ## 💼 Experience
 
-**XpertDox** · *3 yrs 4 mos*
+**[XpertDox](https://www.xpertdox.com/)** · *3 yrs 4 mos*
 - **Program Director** *(Mar 2025 – present)* — Leading cross-functional teams across audit, RPA, health data analytics, and IT. Primary liaison for hospital and clinic leadership, translating requirements into internal deliverables.
 - **Associate Director, Health Informatics** *(Dec 2022 – Mar 2025)* — Built the Health Informatics team from scratch, scaling to six physician consultants. Enabled automated ICD coding and CPT reporting from EMRs across US hospitals.
 
-**[MDisrupt](https://www.mdisrupt.com/)** · Digital Health Consultant *(May 2022 – Mar 2025)*
+**[MDisrupt](https://www.mdisrupt.com/)** · Digital Health Consultant *(May 2022 – Mar 2025 · 2 yrs 11 mos)*
 Guided health products on clinical, regulatory, and commercial strategy to assess viability and scale responsibly.
 
-**[Ubie](https://ubiehealth.com/)** · Medical Intern, Asia-Pacific *(Apr 2022 – Dec 2022)*
+**[Ubie](https://ubiehealth.com/)** · Medical Intern, Asia-Pacific *(Apr 2022 – Dec 2022 · 9 mos)*
 Product & business development for AI-powered disease prediction (1000+ B2B institutions, 5M+ B2C users). Based in Singapore, reporting to the Medical Director.
 
-**Indo-Tibetan Border Police** · General Duty Medical Officer *(Jul 2021 – Dec 2022)*
+**[Indo-Tibetan Border Police](https://www.itbpolice.nic.in/)** · General Duty Medical Officer *(Jul 2021 – Dec 2022 · 1 yr 6 mos)*
 3rd Battalion, ITBP | Central Armed Police Forces, MHA, Government of India
 
-**College of Medicine & Sagore Dutta Hospital, Kolkata**
+**[College of Medicine & SDH, Kolkata](https://comsdh.org.in/)**
 Junior Resident, Dept of Gynaecology & Obstetrics *(Mar – May 2021)* · MBBS Internship *(Mar 2020 – Feb 2021)*
 
 ---
 
 ## 🌍 Volunteering & Leadership
 
-**Regional Leader, South-East Asia** — [International Working Group for Health Systems Strengthening](https://www.linkedin.com/company/iwghss/) *(Nov 2022 – present)*
+**[Intl Working Group for Health Systems Strengthening](https://www.linkedin.com/company/iwghss/)** · Regional Leader, South-East Asia *(Nov 2022 – present)*
 Health systems policy and advocacy across the SEA region.
 
-**Program Manager, Healthcare Initiatives** — JUST Yellow Foundation *(Aug 2022 – present)*
+**JUST Yellow Foundation** · Program Manager, Healthcare Initiatives *(Aug 2022 – present)*
 Leading healthcare-focused programs for civil rights and social action.
 
-**Co-convener, Environment Front** — Youth for Swaraj *(Jan 2021 – Apr 2022)*
+**Youth for Swaraj** · Co-convener, Environment Front *(Jan 2021 – Apr 2022)*
 Coordinated youth-led environmental advocacy campaigns.
 
-**National Director, PRESOG** — [Global Association of Indian Medical Students](https://www.gaims.org/presog/) *(Sep 2020 – Aug 2021)*
+**[GAIMS · PRESOG](https://www.gaims.org/presog/)** · National Director *(Sep 2020 – Aug 2021)*
 Led the Peace, Rights and Environment Society across Indian medical colleges.
 
 ---
@@ -89,7 +91,7 @@ Led the Peace, Rights and Environment Society across Indian medical colleges.
 
 ## 🧠 Domains & Interests
 
-`Clinical AI/ML` · `Health Informatics` · `NLP` · `Medical Image Analysis` · `Digital Health` · `Telemedicine Policy` · `Climate Change & Health` · `Environmental Health Research` · `Climate Data Visualization`
+`Clinical AI/ML` · `Health Informatics` · `NLP` · `Medical Image Analysis` · `Digital Health` · `Responsible AI in Healthcare` · `Telemedicine Policy` · `Climate Change & Health` · `Environmental Health Research` · `Climate Data Visualization`
 
 ---
 
@@ -141,4 +143,3 @@ English · Hindi · Punjabi · Bengali
 <p align="center">
   <i>Feel free to reach out — always happy to connect on projects at the intersection of medicine, technology, and climate.</i>
 </p>
-
