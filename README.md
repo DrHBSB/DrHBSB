@@ -13,9 +13,9 @@ I work at the intersection of clinical medicine, AI, and health informatics — 
 
 ## 🔬 What I'm Doing Now
 
+- **Program Director** at [XpertDox](https://www.xpertdox.com/) — scaling healthcare informatics products across US hospitals and clinics
 - **MS (Research)** in Biomedical Engineering at [IIT Delhi](https://home.iitd.ac.in/) *(Jan 2025 – present)*
 - **Researcher** at [CRASH Lab](https://crashlab.in) (Centre for Responsible Autonomous Systems in Healthcare) at [KCDH-A](https://www.koitafoundation.org/KCDHA) (Koita Centre for Digital Health – Ashoka University)
-- **Program Director** at [XpertDox](https://www.xpertdox.com/) — scaling healthcare informatics products across US hospitals and clinics
 
 ---
 
