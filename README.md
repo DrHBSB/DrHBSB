@@ -142,8 +142,3 @@ English · Hindi · Punjabi · Bengali
   <i>Feel free to reach out — always happy to connect on projects at the intersection of medicine, technology, and climate.</i>
 </p>
 
----
-
-<p align="center">
-  <i>Feel free to reach out — always happy to connect on projects at the intersection of medicine and technology.</i>
-</p>
