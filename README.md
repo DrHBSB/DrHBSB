@@ -64,15 +64,7 @@ I work at the intersection of clinical medicine, AI, and health informatics — 
 ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrHBSB&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 
 <p align="center">
   <i>"Bridging the gap between the clinic and the codebase."</i>
