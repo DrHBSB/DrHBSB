@@ -1,11 +1,12 @@
 👋 Hi, I’m Dr Hakikat Bir Singh Bhatti (@DrHBSB)
 
-**Physician · Clinical AI–ML · Health Informatics**
+**Physician · Clinical AI–ML · Health Informatics · Climate & Health · MS (Research) at IIT Delhi**
 
-I work at the intersection of clinical medicine, AI, and health informatics — building systems that improve healthcare delivery, reduce physician burnout, and bridge care disparities.
+I work at the intersection of clinical medicine, AI, and health informatics — building systems that improve healthcare delivery, reduce physician burnout, and bridge care disparities. Equally drawn to the climate–health nexus, with formal training in climate data science, environmental health modelling, and climate data visualization.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drhbsb)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QVKGWSAAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5320-5081)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hbsb2566@gmail.com)
 
 ---
@@ -13,33 +14,43 @@ I work at the intersection of clinical medicine, AI, and health informatics — 
 ## 🔬 What I'm Doing Now
 
 - **MS (Research)** in Biomedical Engineering at [IIT Delhi](https://home.iitd.ac.in/) *(Jan 2025 – present)*
-- **Program Director** at [XpertDox](https://www.xpertdox.com/) — leading cross-functional teams across health data analytics, clinical audit, RPA, and IT to scale healthcare informatics products across US hospitals and clinics
+- **Program Director** at [XpertDox](https://www.xpertdox.com/) — scaling healthcare informatics products across US hospitals and clinics
 
 ---
 
 ## 💼 Experience
 
-- **Program Director** — [XpertDox](https://www.xpertdox.com/) *(Mar 2025 – present)*
-  Leading cross-functional teams across audit, RPA, health data analytics, and IT to scale healthcare informatics products across US hospitals and clinics.
+**XpertDox** · *3 yrs 4 mos*
+- **Program Director** *(Mar 2025 – present)* — Leading cross-functional teams across audit, RPA, health data analytics, and IT. Primary liaison for hospital and clinic leadership, translating requirements into internal deliverables.
+- **Associate Director, Health Informatics** *(Dec 2022 – Mar 2025)* — Built the Health Informatics team from scratch, scaling to six physician consultants. Enabled automated ICD coding and CPT reporting from EMRs across US hospitals.
 
-- **Associate Director, Health Informatics** — XpertDox *(Dec 2022 – Mar 2025)*
-  Built the Health Informatics team from scratch, scaling to six physician consultants. Enabled automated ICD coding and CPT reporting from EMRs.
+**[MDisrupt](https://www.mdisrupt.com/)** · Digital Health Consultant *(May 2022 – Mar 2025)*
+Guided health products on clinical, regulatory, and commercial strategy to assess viability and scale responsibly.
 
-- **Digital Health Consultant** — [MDisrupt](https://www.mdisrupt.com/) *(May 2022 – Mar 2025)*
-  Guided health products on clinical, regulatory, and commercial strategy to scale responsibly.
+**[Ubie](https://ubiehealth.com/)** · Medical Intern, Asia-Pacific *(Apr 2022 – Dec 2022)*
+Product & business development for AI-powered disease prediction (1000+ B2B institutions, 5M+ B2C users). Based in Singapore, reporting to the Medical Director.
 
-- **Medical Intern (Asia-Pacific)** — [Ubie](https://ubiehealth.com/) *(Apr 2022 – Dec 2022)*
-  Contributed to product development and clinical excellence for AI-powered disease prediction at a Tokyo/Singapore healthtech startup (1000+ B2B institutions, 5M+ B2C users).
+**Indo-Tibetan Border Police** · General Duty Medical Officer *(Jul 2021 – Dec 2022)*
+3rd Battalion, ITBP | Central Armed Police Forces, MHA, Government of India
 
-- **General Duty Medical Officer** — Indo-Tibetan Border Police, MHA, Govt of India *(Jul 2021 – Dec 2022)*
-
-- **Junior Resident & MBBS Intern** — College of Medicine & Sagore Dutta Hospital, Kolkata *(Mar 2020 – May 2021)*
+**College of Medicine & Sagore Dutta Hospital, Kolkata**
+Junior Resident, Dept of Gynaecology & Obstetrics *(Mar – May 2021)* · MBBS Internship *(Mar 2020 – Feb 2021)*
 
 ---
 
-## 🧠 Domains & Interests
+## 🌍 Volunteering & Leadership
 
-`Clinical AI/ML` · `Health Informatics` · `Natural Language Processing` · `Medical Image Analysis` · `Digital Health` · `Telemedicine Policy` · `Climate & Health`
+**Regional Leader, South-East Asia** — [International Working Group for Health Systems Strengthening](https://www.linkedin.com/company/iwghss/) *(Nov 2022 – present)*
+Health systems policy and advocacy across the SEA region.
+
+**Program Manager, Healthcare Initiatives** — JUST Yellow Foundation *(Aug 2022 – present)*
+Leading healthcare-focused programs for civil rights and social action.
+
+**Co-convener, Environment Front** — Youth for Swaraj *(Jan 2021 – Apr 2022)*
+Coordinated youth-led environmental advocacy campaigns.
+
+**National Director, PRESOG** — [Global Association of Indian Medical Students](https://www.gaims.org/presog/) *(Sep 2020 – Aug 2021)*
+Led the Peace, Rights and Environment Society across Indian medical colleges.
 
 ---
 
@@ -47,11 +58,11 @@ I work at the intersection of clinical medicine, AI, and health informatics — 
 
 1. **Radiology's Last Exam (RadLE): Benchmarking Frontier Multimodal AI Against Human Experts**
    *Sep 2025* · [arXiv:2509.25559](https://arxiv.org/abs/2509.25559)
-   > A pilot benchmark of 50 expert-level radiology cases testing frontier AI models against radiologists, with a proposed taxonomy of visual reasoning errors.
+   > Benchmarked frontier AI models against radiologists on 50 expert-level cases and proposed a taxonomy of visual reasoning errors in radiology AI.
 
 2. **A Review of Telemedicine Guidelines in the South-East Asia Region**
    *Sep 2023* · [Telemedicine Reports](https://www.liebertpub.com/doi/full/10.1089/tmr.2023.0040)
-   > A comparative policy review of telemedicine guidelines across WHO South-East Asia Region countries.
+   > Comparative policy review of telemedicine guidelines across WHO SEAR countries.
 
 ---
 
@@ -60,11 +71,11 @@ I work at the intersection of clinical medicine, AI, and health informatics — 
 | Degree | Institution | Year |
 |---|---|---|
 | MS (Research), Biomedical Engineering | IIT Delhi | 2025 – present |
-| PG Diploma, Data Science (Health & Climate Change) | IIIT-Delhi | 2023 – 2024 |
+| PG Diploma, Data Science in Health & Climate Change for Social Impact | IIIT-Delhi | 2023 – 2024 |
 | PG Diploma, Computer Science & AI | IIIT-Delhi | 2022 – 2023 |
 | Healthcare Innovation Bootcamp | MIT & Harvard Medical School | 2022 |
-| AI Solutions for Health Care | Harvard Medical School | 2022 |
-| MBBS (Medicine & Surgery) | West Bengal University of Health Sciences | 2015 – 2021 |
+| AI Solutions for Health Care (Exec Ed) | Harvard Medical School | 2022 |
+| MBBS (Medicine & Surgery) | WB University of Health Sciences, Kolkata | 2015 – 2021 |
 
 ---
 
@@ -76,21 +87,63 @@ I work at the intersection of clinical medicine, AI, and health informatics — 
 
 ---
 
+## 🧠 Domains & Interests
+
+`Clinical AI/ML` · `Health Informatics` · `NLP` · `Medical Image Analysis` · `Digital Health` · `Telemedicine Policy` · `Climate Change & Health` · `Environmental Health Research` · `Climate Data Visualization`
+
+---
+
+## 📜 Certifications
+
+**Climate & Environment**
+- The Health Effects of Climate Change — Harvard T.H. Chan School of Public Health
+- Climate Change Workshop — Lakshmi Mittal & Family South Asia Institute, Harvard University
+- Climate Data Visualization and Journalism Workshop — Azim Premji University
+- Methods and Modelling in Environmental Health Research — Public Health Foundation of India
+
+**AI & Programming**
+- Deep Learning (DLI Certificate of Competency) — NVIDIA
+- Programming for AI and Data Analytics (R & Python) — IIT Roorkee
+- MIT-Harvard Medical School Healthcare Innovation Bootcamp
+
+**Clinical & Research**
+- Health Research Methodology and Evidence Based Medicine — St John's Research Institute
+- Certification of Registration, Physician, MBBS — West Bengal Medical Council
+
+---
+
+## 🌐 Languages
+
+English · Hindi · Punjabi · Bengali
+
+---
+
 ## 🛠️ Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-blueviolet?style=flat)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-76B900?style=flat&logo=nvidia&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=white)
 
+---
 
+## 🤝 Open to Collaborate On
+
+- Clinical AI benchmarking and evaluation
+- Health informatics tools and open-source clinical NLP
+- Telemedicine & digital health policy research
+- AI for radiology and medical imaging
+- Climate change, environmental health, and planetary health data science
+
+---
 
 <p align="center">
-  <i>"Bridging the gap between the clinic and the codebase."</i>
+  <i>Feel free to reach out — always happy to connect on projects at the intersection of medicine, technology, and climate.</i>
 </p>
 
-<!--
-DrHBSB/DrHBSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  <i>Feel free to reach out — always happy to connect on projects at the intersection of medicine and technology.</i>
+</p>
