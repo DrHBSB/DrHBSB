@@ -17,6 +17,26 @@ I work at the intersection of clinical medicine, AI, and health informatics — 
 
 ---
 
+## 💼 Experience
+
+- **Program Director** — [XpertDox](https://www.xpertdox.com/) *(Mar 2025 – present)*
+  Leading cross-functional teams across audit, RPA, health data analytics, and IT to scale healthcare informatics products across US hospitals and clinics.
+
+- **Associate Director, Health Informatics** — XpertDox *(Dec 2022 – Mar 2025)*
+  Built the Health Informatics team from scratch, scaling to six physician consultants. Enabled automated ICD coding and CPT reporting from EMRs.
+
+- **Digital Health Consultant** — [MDisrupt](https://www.mdisrupt.com/) *(May 2022 – Mar 2025)*
+  Guided health products on clinical, regulatory, and commercial strategy to scale responsibly.
+
+- **Medical Intern (Asia-Pacific)** — [Ubie](https://ubiehealth.com/) *(Apr 2022 – Dec 2022)*
+  Contributed to product development and clinical excellence for AI-powered disease prediction at a Tokyo/Singapore healthtech startup (1000+ B2B institutions, 5M+ B2C users).
+
+- **General Duty Medical Officer** — Indo-Tibetan Border Police, MHA, Govt of India *(Jul 2021 – Dec 2022)*
+
+- **Junior Resident & MBBS Intern** — College of Medicine & Sagore Dutta Hospital, Kolkata *(Mar 2020 – May 2021)*
+
+---
+
 ## 🧠 Domains & Interests
 
 `Clinical AI/ML` · `Health Informatics` · `Natural Language Processing` · `Medical Image Analysis` · `Digital Health` · `Telemedicine Policy` · `Climate & Health`
